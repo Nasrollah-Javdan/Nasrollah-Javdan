@@ -120,9 +120,56 @@ press F1 - search Git clone
 
 F1 - git commit all
 
+set name for your commit and press Accept
+
 F1 - git push / git pull
 
 extensions : gitlens
+
+---
+
+live share, Live share audio, live share extension pack : for sharing your code online to fix the bugs
+
+--- shortcut
+
+press ctrl + p : type :14 this mean go to line 14
+
+press ctrl + p : type your file name - press enter to open it
+
+open permantly closed files : ctrl + shift + T
+
+move from one file to another : ctrl + tab
+
+open terminal : crtl + shift + `
+
+clean terminal : clear - enter 
+
+reload vscode : F1 - reload window
+
+we can avtivate WordWrap 
+
+---
+
+extensions:
+
+Advanced new file : creat new file via ctrl + Alt + N
+
+settings sync : recovery all your extensions and configurations
+
+waka time : see how many hours you code daily 
+
+First need to sing up in wakatime.com and then install extension
+
+in the new version of Vscode
+
+No need to install bracket pair colorizer : press F1 - settings.jason
+add : "editor.guides.bracketPairs": true,
+
+
+
+
+
+
 
 
 
