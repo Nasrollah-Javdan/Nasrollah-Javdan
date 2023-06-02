@@ -1,0 +1,136 @@
+برا کپی و کات و پیست کردن نیاز نیست کل متن رو سلکت کنیم بلکه اگر نشانگر چشمک زدن روی اون خط باشد و کلید هارو فشار بدیم این کار خود به خود انجام میشه 
+
+press F1 - open user settings - cursor blinking = expand
+
+first of the line: Home 
+
+end of the line: End 
+
+moving in the line word by word : ctrl + left/right
+
+select word : ctrl + shift + left/right
+
+select character: shift + left/right
+
+select from first/end to all : shift + end/home
+
+delete words: ctrl + delete
+
+move lines to top of down: Alt + up/down
+
+edit same names : ctrl + D
+
+edit same names : ctrl + F
+
+edit multi lines and edit : shift + Alt + up/down
+
+duplicate lines: ctrl + shift + up/down
+
+
+Extensions:
+
+preinstalled :
+
+Emmet : div.parent>ul.menu*4  then press enter
+
+install :
+
+auto rename tag : edit start and end tag in the same time
+
+html and css support :
+
+auto close tag :
+
+Configure extensions : press F1 search open settings(json) - settings.json
+
+material icon theme : icon next to html, Css and ...
+
+press F1 and search Toggle screencast mode to see what you type on keyboard
+
+Html preview : ctrl + k then press V */ it is no longer maintained */
+
+Color highlight : maked color style highlight
+
+codesnap : take screen shot from your code press F1 + select code snap
+
+svg preview : perview of svg images
+
+glassit-VSC : to make the background galssy : ctrl + Alt + Z/C
+
+project manager : save projects and easy access : press F1 - save project
+
+Intellisense for Css class names : easy access to Css values in html
+
+prettier code-formatter : press shift + Alt + F to normalize and fix your code
+
+bracket pair colorizer : paint the start and end brackets ( best for  lots of if else  brackets )
+
+minify : to mix and compress the project codes and reduce the size of codes
+press F1 - minify : it will create a index.min.html file
+
+live Sass compiler : convert SCss codes to Css
+
+TODO tree : if you forget you can use this add comment // TODO or //FIXME
+
+Better comments : to colorify the comments in different colors //! - ? - ! and ..
+
+Document this : to comment more than one line press ctrl + D two times 
+ 
+-- java script extensions
+
+Babel JavaScript: colorify codes
+
+JavaScript (ES6) code snippets : for fast codding : type clg press enter then you see : console.log(object)
+
+Turbo console log : get log for a variable very fast 
+
+---
+
+live server : create local line server 
+
+--- theme extensions
+
+press F1 - search color theme
+
+one dark pro 
+
+night owl 
+
+material theme
+
+Neon night
+
+flat ui
+
+atom one dark theme
+
+dracula
+
+--- best fonts 
+
+Fira code
+
+---
+
+code spell checker : check the syntax of your words and codes
+
+--- Git
+
+press F1 - search Git clone
+
+F1 - git commit all
+
+F1 - git push / git pull
+
+extensions : gitlens
+
+
+
+
+
+
+
+
+
+ 
+
